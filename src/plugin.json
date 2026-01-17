@@ -1,0 +1,14 @@
+{
+    "name": "fakeDeafen",
+    "version": "1.0.0",
+    "description": "Adds fake deafen and fake mute options to the self context menu in voice channels",
+    "author": "fakeDeafen Author",
+    "license": "MIT",
+    "source": "",
+    "donation": "",
+    "keywords": ["vencord", "fake-deafen", "fake-mute", "voice-channel"],
+    "enabled": true,
+    "settings": {},
+    "patches": [],
+    "dependencies": []
+}
