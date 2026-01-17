@@ -1,0 +1,17 @@
+{
+  "name": "fakeDeafen",
+  "version": "1.0.0",
+  "description": "Vencord plugin to add fake deafen and fake mute buttons to self context menu in voice channels",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && vite build",
+    "dev": "vite build --watch"
+  },
+  "keywords": ["vencord", "plugin", "discord", "fake-deafen", "fake-mute"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0"
+  }
+}
